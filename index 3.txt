@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>La Cellula Vegetale</title>
+    <style>
+        body {
+            font-family: Georgia, serif;
+            background-color: #f2f7f2;
+            margin: 0;
+            padding: 0;
+            line-height: 1.7;
+        }
+
+        header {
+            background-color: #2e7d32;
+            color: white;
+            text-align: center;
+            padding: 30px;
+        }
+
+        main {
+            max-width: 1000px;
+            margin: auto;
+            background-color: white;
+            padding: 30px;
+        }
+
+        h2 {
+            color: #1b5e20;
+            border-bottom: 2px solid #c8e6c9;
+            padding-bottom: 5px;
+            margin-top: 40px;
+        }
+
+        h3 {
+            color: #33691e;
+        }
+
+        footer {
+            background-color: #2e7d32;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 30px;
+        }
+
+        ul {
+            margin-left: 25px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>La Cellula Vegetale</h1>
+    <p>Struttura, funzioni e caratteristiche dettagliate</p>
+</header>
+
+<main>
+
+<h2>Introduzione</h2>
+<p>
+La cellula vegetale è l’unità fondamentale della vita nelle piante.
+Tutti gli organismi vegetali sono costituiti da cellule vegetali, che
+lavorano insieme per garantire la crescita, la nutrizione e la
+riproduzione della pianta.
+</p>
+<p>
+È una cellula eucariotica, quindi possiede un nucleo ben definito e numerosi
+organuli specializzati. Rispetto alla cellula animale presenta strutture
+esclusive che permettono la fotosintesi e il sostegno della pianta.
+</p>
+
+<h2>Dimensioni e forma</h2>
+<p>
+Le cellule vegetali sono generalmente più grandi delle cellule animali
+e hanno una forma regolare, spesso rettangolare o poligonale, grazie
+alla presenza della parete cellulare rigida.
+</p>
+
+<h2>Parete cellulare</h2>
+<p>
+La parete cellulare è una struttura rigida situata all’esterno della
+membrana cellulare. È composta principalmente da cellulosa, ma può
+contenere anche lignina e pectine.
+</p>
+<p>
+Le sue funzioni principali sono:
+</p>
+<ul>
+    <li>dare forma e sostegno alla cellula</li>
+    <li>proteggere la cellula da danni meccanici</li>
+    <li>impedire un eccessivo assorbimento di acqua</li>
+</ul>
+
+<h2>Membrana cellulare</h2>
+<p>
+La membrana cellulare è una struttura semipermeabile che controlla
+il passaggio delle sostanze tra l’interno e l’esterno della cellula.
+Regola gli scambi di nutrienti, gas e prodotti di scarto.
+</p>
+
+<h2>Citoplasma</h2>
+<p>
+Il citoplasma è una sostanza fluida e gelatinosa che riempie la cellula.
+Al suo interno sono immersi gli organuli cellulari e avvengono molte
+reazioni chimiche fondamentali per la vita.
+</p>
+
+<h2>Nucleo</h2>
+<p>
+Il nucleo è l’organulo più importante della cellula vegetale.
+Contiene il DNA, che racchiude le informazioni genetiche dell’organismo.
+</p>
+<p>
+Il nucleo controlla:
+</p>
+<ul>
+    <li>la crescita della cellula</li>
+    <li>la sintesi delle proteine</li>
+    <li>la divisione cellulare</li>
+</ul>
+
+<h2>Cloroplasti</h2>
+<p>
+I cloroplasti sono organuli tipici delle cellule vegetali.
+Contengono la clorofilla, il pigmento che cattura l’energia luminosa.
+</p>
+<p>
+All’interno dei cloroplasti avviene la fotosintesi clorofilliana,
+processo attraverso il quale la pianta produce glucosio e ossigeno
+a partire da acqua, anidride carbonica e luce solare.
+</p>
+
+<h2>Fotosintesi clorofilliana</h2>
+<p>
+La fotosintesi è fondamentale per la vita sulla Terra perché:
+</p>
+<ul>
+    <li>produce nutrimento per le piante</li>
+    <li>libera ossigeno nell’atmosfera</li>
+    <li>è alla base delle catene alimentari</li>
+</ul>
+
+<h2>Vacuolo centrale</h2>
+<p>
+Il vacuolo centrale è una grande cavità che occupa fino al 90% del
+volume della cellula vegetale.
+</p>
+<p>
+Le sue funzioni includono:
+</p>
+<ul>
+    <li>accumulo di acqua e sostanze nutritive</li>
+    <li>raccolta di sostanze di scarto</li>
+    <li>mantenimento della pressione interna (turgore)</li>
+</ul>
+
+<h2>Mitocondri</h2>
+<p>
+I mitocondri sono gli organuli responsabili della respirazione cellulare.
+Trasformano il glucosio in energia utilizzabile dalla cellula sotto
+forma di ATP.
+</p>
+
+<h2>Reticolo endoplasmatico</h2>
+<p>
+Il reticolo endoplasmatico è una rete di membrane che può essere:
+</p>
+<ul>
+    <li><strong>ruvido</strong>, con ribosomi, coinvolto nella sintesi delle proteine</li>
+    <li><strong>liscio</strong>, coinvolto nella sintesi dei lipidi</li>
+</ul>
+
+<h2>Ribosomi</h2>
+<p>
+I ribosomi sono strutture microscopiche che producono proteine,
+fondamentali per il funzionamento e la struttura della cellula.
+</p>
+
+<h2>Apparato di Golgi</h2>
+<p>
+L’apparato di Golgi modifica, immagazzina e distribuisce le proteine
+e i lipidi prodotti dalla cellula.
+</p>
+
+<h2>Differenze tra cellula vegetale e cellula animale</h2>
+<p>
+La cellula vegetale si distingue dalla cellula animale per:
+</p>
+<ul>
+    <li>presenza della parete cellulare</li>
+    <li>presenza dei cloroplasti</li>
+    <li>vacuolo centrale molto sviluppato</li>
+</ul>
+
+<h2>Conclusione</h2>
+<p>
+La cellula vegetale è una struttura complessa e altamente specializzata,
+che permette alle piante di crescere, produrre nutrimento e mantenere
+l’equilibrio degli ecosistemi.
+</p>
+
+</main>
+
+<footer>
+    <p>Sito informativo sulla cellula vegetale</p>
+</footer>
+
+</body>
+</html>
